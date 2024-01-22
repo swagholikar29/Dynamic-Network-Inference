@@ -9,10 +9,17 @@ This repository contains code for implementing an Entropy-Based Early Exit metho
 <table>
   <tr>
       <td align = "center"> <img src="./Images/1a.png"> </td>
-      <td align = "center"> <img src="./Images/1b.png"> </td>
   </tr>
   <tr>
       <td align = "center"> Overall Accuracy and Total Inference Time </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+      <td align = "center"> <img src="./Images/1b.png"> </td>
+  </tr>
+  <tr>
       <td align = "center"> Analysis to select Best Threshold </td>
   </tr>
 </table>
